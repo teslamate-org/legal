@@ -1,3 +1,5 @@
+The following Gist is the technical source for our CLA Assistant bot: https://gist.github.com/JakobLichterfeld/f8d49b6c26fbeffbc573860de707bbe8
+
 # Fiduciary License Agreement 2.0
 
 based on the
