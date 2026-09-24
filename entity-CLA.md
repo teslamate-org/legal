@@ -6,9 +6,9 @@ based on the
 
 ## (including the Traditional Patent License OPTION)
 
-Thank you for your interest in contributing to TeslaMate's TeslaMate ("We" or "Us").
+Thank you for your interest in contributing to teslamate-org's TeslaMate ("We" or "Us").
 
-The purpose of this contributor agreement ("Agreement") is to clarify and document the rights granted by contributors to Us. To make this document effective, please follow the instructions at of the CLA assistant.
+The purpose of this contributor agreement ("Agreement") is to clarify and document the rights granted by contributors to Us. To make this document effective, please follow the instructions that the CLA Assistant bot posts on your first pull request.
 
 ### 0\. Preamble
 
@@ -28,7 +28,7 @@ If You are an employee and have created the Contribution as part of your employm
 
 ### 1\. Definitions
 
-**"You"** means the individual Copyright owner who Submits a Contribution to Us.
+**"You"** means the individual Copyright owner who Submits a Contribution to Us; or if the Copyright in the Contribution is held by a Legal Entity and the Contribution is being Submitted to Us on behalf of such Legal Entity, "You" means such Legal Entity.
 
 **"Legal Entity"** means an entity that is not a natural person.
 
@@ -86,7 +86,7 @@ You reserve the right to revoke the patent license stated in section 3.1 if We m
 
 We agree to (sub)license the Contribution or any Materials containing, based on or derived from your Contribution under the terms of any licenses the Free Software Foundation classifies as Free Software License and which are approved by the Open Source Initiative as Open Source licenses.
 
-More specifically and in strict accordance with the above paragraph, we agree to (sub)license the Contribution or any Materials containing, based on or derived from the Contribution only under the terms of the following license(s) AGPL-3.0 (including any right to adopt any future version of a license if permitted).
+More specifically and in strict accordance with the above paragraph, we agree to (sub)license the Contribution or any Materials containing, based on or derived from the Contribution only under the terms of the following license(s) AGPL-3.0-or-later (including any right to adopt any future version of a license if permitted), including additional terms permitted by section 7 of that license.
 
 We agree to license patents owned or controlled by You only to the extent necessary to (sub)license Your Contribution(s) and the combination of Your Contribution(s) with the Material under the terms of any licenses the Free Software Foundation classifies as Free Software licenses and which are approved by the Open Source Initiative as Open Source licenses..
 
@@ -144,8 +144,8 @@ Address:
 
 #### Recreate this Contributor License Agreement
 
-[https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=TeslaMate&project-name=TeslaMate&project-website=https%3A%2F%2Fdocs.teslamate.org%2F&project-email=info+at+teslamate+.+org&process-url=of+the+CLA+assistant&project-jurisdiction=Germany&fsfe-compliance=fsfe-compliance&agreement-exclusivity=exclusive&outbound-option=same-licenses&outboundlist=AGPL-3.0&outboundlist-custom=&license-policy-location=&medialist=\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&patent-option=Traditional&your-name=&your-date=&your-title=&your-address=&your-patents=&pos=apply&action=](https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=TeslaMate&project-name=TeslaMate&project-website=https%3A%2F%2Fdocs.teslamate.org%2F&project-email=info+at+teslamate+.+org&process-url=of+the+CLA+assistant&project-jurisdiction=Germany&fsfe-compliance=fsfe-compliance&agreement-exclusivity=exclusive&outbound-option=same-licenses&outboundlist=AGPL-3.0&outboundlist-custom=&license-policy-location=&medialist=____________________&patent-option=Traditional&your-name=&your-date=&your-title=&your-address=&your-patents=&pos=apply&action=)
+[https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=teslamate-org&project-name=TeslaMate&project-website=https%3A%2F%2Fdocs.teslamate.org%2F&project-email=info+at+teslamate+.+org&process-url=&project-jurisdiction=Germany&fsfe-compliance=fsfe-compliance&agreement-exclusivity=exclusive&outbound-option=same-licenses&outboundlist=AGPL-3.0&outboundlist-custom=&license-policy-location=&medialist=\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&patent-option=Traditional&your-name=&your-date=&your-title=&your-address=&your-patents=&pos=apply&action=](https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=teslamate-org&project-name=TeslaMate&project-website=https%3A%2F%2Fdocs.teslamate.org%2F&project-email=info+at+teslamate+.+org&process-url=&project-jurisdiction=Germany&fsfe-compliance=fsfe-compliance&agreement-exclusivity=exclusive&outbound-option=same-licenses&outboundlist=AGPL-3.0&outboundlist-custom=&license-policy-location=&medialist=____________________&patent-option=Traditional&your-name=&your-date=&your-title=&your-address=&your-patents=&pos=apply&action=)
 
-[](https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=TeslaMate&project-name=TeslaMate&project-website=https%3A%2F%2Fdocs.teslamate.org%2F&project-email=info+at+teslamate+.+org&process-url=of+the+CLA+assistant&project-jurisdiction=Germany&fsfe-compliance=fsfe-compliance&agreement-exclusivity=exclusive&outbound-option=same-licenses&outboundlist=AGPL-3.0&outboundlist-custom=&license-policy-location=&medialist=____________________&patent-option=Traditional&your-name=&your-date=&your-title=&your-address=&your-patents=&pos=apply&action=)
+[](https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=teslamate-org&project-name=TeslaMate&project-website=https%3A%2F%2Fdocs.teslamate.org%2F&project-email=info+at+teslamate+.+org&process-url=&project-jurisdiction=Germany&fsfe-compliance=fsfe-compliance&agreement-exclusivity=exclusive&outbound-option=same-licenses&outboundlist=AGPL-3.0&outboundlist-custom=&license-policy-location=&medialist=____________________&patent-option=Traditional&your-name=&your-date=&your-title=&your-address=&your-patents=&pos=apply&action=)
 
-[](https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=TeslaMate&project-name=TeslaMate&project-website=https%3A%2F%2Fdocs.teslamate.org%2F&project-email=info+at+teslamate+.+org&process-url=of+the+CLA+assistant&project-jurisdiction=Germany&fsfe-compliance=fsfe-compliance&agreement-exclusivity=exclusive&outbound-option=same-licenses&outboundlist=AGPL-3.0&outboundlist-custom=&license-policy-location=&medialist=____________________&patent-option=Traditional&your-name=&your-date=&your-title=&your-address=&your-patents=&pos=apply&action=)
+[](https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=teslamate-org&project-name=TeslaMate&project-website=https%3A%2F%2Fdocs.teslamate.org%2F&project-email=info+at+teslamate+.+org&process-url=&project-jurisdiction=Germany&fsfe-compliance=fsfe-compliance&agreement-exclusivity=exclusive&outbound-option=same-licenses&outboundlist=AGPL-3.0&outboundlist-custom=&license-policy-location=&medialist=____________________&patent-option=Traditional&your-name=&your-date=&your-title=&your-address=&your-patents=&pos=apply&action=)
